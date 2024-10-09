@@ -1,6 +1,6 @@
 ---
 title: "Mancala Board Game"
-excerpt: "Implementation of Mancala in Java"
+excerpt: "Implementation of Mancala Board Game in Java"
 collection: portfolio
 ---
 
