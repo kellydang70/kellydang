@@ -1,10 +1,12 @@
 ---
-title: "GymRatz"
-excerpt: "A gym management application. "
+title: "SweetScout"
+excerpt: "Food Recommendation Application"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Purpose: This application seeks to solve the common dilemma of deciding where to eat. It streamlines the decision-making process by randomly generating specific food or drink options based on the user’s location and preferences. As a result, users will save time and have a decision made for them effortlessly.
 
- 
+Technologies Used: Python, Google Maps API 
+
+ Github: [SweetScout](https://github.com/peeoke/sweet-scout)
 

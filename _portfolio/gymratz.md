@@ -1,6 +1,6 @@
 ---
 title: "GymRatz"
-excerpt: "A gym management application. "
+excerpt: "Gym Management Application. "
 collection: portfolio
 ---
 
