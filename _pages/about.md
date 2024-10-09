@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 About Me! 
 ======
 My interests include software development, data analytics, and machine learning, where I enjoy discovering innovative solutions to complex problems. 
@@ -18,5 +19,5 @@ I believe that data is a valuable tool that directly impacts decision-making pro
 
 As I progress in my studies, I am constantly looking for opportunities to apply my skills in real-world scenarios.
 
-I am excited about the differnt possibilities that can be achieved with technology and look forward to making a difference. 
+I am excited about the different possibilities that can be achieved with technology and look forward to making a difference!  
 

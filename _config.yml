@@ -13,7 +13,7 @@ title_separator: "-"
 name: &name "Kelly Dang"
 description: &description "personal description"
 url: https://kellydang70.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/kellydang
+baseurl: "/kellydang"
 repository: "kellydang70.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   avatar: "profile.png"
   name: "Kelly Dang"
   pronouns: "she/her"
-  bio: "Current Computer Science Major"
+  bio: "Computer Science Major"
   location: "San Jose, CA"
   employer: "San Jose State University"
   uri: # URL
